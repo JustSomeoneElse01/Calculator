@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class UserInterface {
 
 	public static void game() {
-
+		
 		String operator = null;
 
 		Scanner scanner = new Scanner(System.in);
